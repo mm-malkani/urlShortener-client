@@ -1,0 +1,1 @@
+const createQrCode = async (req, res) => {}
